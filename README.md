@@ -9,4 +9,4 @@ the log implied volatility:
 
 ![alt text](https://raw.githubusercontent.com/BRutan/StochasticVolatilityMLE/master/Assets/SDEs.png)
 
-"This repository is an application of this paper to price an option where the underlying stock prices follows this Stochastic Differential Equation. 
+This repository is an application of this paper to price an option where the underlying stock prices follows this Stochastic Differential Equation. 
